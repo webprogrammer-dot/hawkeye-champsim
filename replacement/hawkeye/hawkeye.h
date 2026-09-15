@@ -67,3 +67,4 @@ struct hawkeye : public champsim::modules::replacement {
 };
 
 #endif
+
